@@ -9,13 +9,13 @@
   "background_color": "transparent",
   "icons": [
     {
-      "src": "favicon-32x32.png",
+      "src": "where-in-the-world/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icon_512x512.png",
+      "src": "where-in-the-world/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
