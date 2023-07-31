@@ -17,9 +17,9 @@ function Country_details() {
                         res.json()
                             .then(json => {
                                 setcountry(json);
-                                console.log(json[0]);
+                                //console.log(json[0]);
 
-                                console.log(json[0]['maps']['googleMaps']);
+                                //console.log(json[0]['maps']['googleMaps']);
                                 // // console.log(json[0]['name']['nativeName']);
                                 // console.log('cap ' + json[0]['capital'][0]);
                                 // console.log('ppltn ' + json[0]['population']);
