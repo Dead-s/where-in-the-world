@@ -16,8 +16,8 @@
       "purpose": "any"
     }
   ],
-  "start_url": "./",
-  "scope": ".",
+  "start_url": "https://dead-s.github.io/where-in-the-world.io/",
+  "scope": "/",
   "display": "standalone",
   "theme_color": "black",
   "background_color": "transparent"
