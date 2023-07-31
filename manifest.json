@@ -1,7 +1,7 @@
 {
   "name": "Where in the world?",
   "short_name": "Where?",
-  "description": "Progressive Web App that lists games submitted to the A-Frame category in the js13kGames 2017 competition.",
+  "description": "Progressive Web App.",
   "icons": [
     {
       "src": "favicon-32x32.png",
@@ -16,7 +16,7 @@
       "purpose": "any"
     }
   ],
-  "start_url": "http://localhost:5173/",
+  "start_url": "https://dead-s.github.io/where-in-the-world.io/",
   "display": "standalone",
   "theme_color": "black",
   "background_color": "transparent"
