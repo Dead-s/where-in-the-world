@@ -2,6 +2,11 @@
   "name": "Where in the world?",
   "short_name": "Where?",
   "description": "Progressive Web App.",
+  "start_url": "https://dead-s.github.io/where-in-the-world.io/",
+  "scope": "https://dead-s.github.io/where-in-the-world.io/",
+  "display": "standalone",
+  "theme_color": "black",
+  "background_color": "transparent",
   "icons": [
     {
       "src": "favicon-32x32.png",
@@ -15,10 +20,5 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ],
-  "start_url": "https://dead-s.github.io/where-in-the-world.io/",
-  "scope": "https://dead-s.github.io/where-in-the-world.io/",
-  "display": "standalone",
-  "theme_color": "black",
-  "background_color": "transparent"
+  ]
 }
