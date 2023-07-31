@@ -101,7 +101,7 @@ function Country_details() {
                                             <div><label>Population: </label><span>{country[key]['population'].toLocaleString()}</span></div>
                                             <div><label>Region: </label><span>{country[key]['region']}</span></div>
                                             <div><label>Sub Region: </label><span>{country[key]['subregion']}</span></div>
-                                            <div><label>Cpaital: </label><span>{country[key]['capital']}</span></div>
+                                            <div><label>Capital: </label><span>{country[key]['capital']}</span></div>
                                         </div>
                                         <div className="info-gchild">
                                             <div><label>Top level domain: </label><span>{country[key]['tld']}</span></div>
@@ -125,7 +125,7 @@ function Country_details() {
                                             </div>
                                             <div>
                                                 <a className={`g-location ${mode}-body`} href={country[0]['maps']['googleMaps']} target="_blank">
-                                                    Google Map <i className="fa-solid fa-location-dot"></i>
+                                                    <label>Google Map </label><i className="fa-solid fa-location-dot"></i>
                                                 </a>
                                             </div>
                                             <div><label>Time zones: </label>
